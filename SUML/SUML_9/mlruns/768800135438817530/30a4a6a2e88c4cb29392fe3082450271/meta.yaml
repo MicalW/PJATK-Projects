@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/768800135438817530/30a4a6a2e88c4cb29392fe3082450271/artifacts
+end_time: 1763721114436
+entry_point_name: ''
+experiment_id: '768800135438817530'
+lifecycle_stage: active
+run_id: 30a4a6a2e88c4cb29392fe3082450271
+run_name: charming-horse-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763721114404
+status: 4
+tags: []
+user_id: s27568

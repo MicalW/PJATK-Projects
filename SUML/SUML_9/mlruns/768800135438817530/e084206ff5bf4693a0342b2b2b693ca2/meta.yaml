@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/768800135438817530/e084206ff5bf4693a0342b2b2b693ca2/artifacts
+end_time: 1763720894140
+entry_point_name: ''
+experiment_id: '768800135438817530'
+lifecycle_stage: active
+run_id: e084206ff5bf4693a0342b2b2b693ca2
+run_name: learned-boar-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763720894093
+status: 4
+tags: []
+user_id: s27568
